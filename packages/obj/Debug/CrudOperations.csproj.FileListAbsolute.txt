@@ -1,0 +1,10 @@
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\bin\Debug\CrudOperations.exe.config
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\bin\Debug\CrudOperations.exe
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\bin\Debug\CrudOperations.pdb
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\obj\Debug\CrudOperations.csproj.AssemblyReference.cache
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\obj\Debug\CrudOperations.Form1.resources
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\obj\Debug\CrudOperations.Properties.Resources.resources
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\obj\Debug\CrudOperations.csproj.GenerateResource.cache
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\obj\Debug\CrudOperations.csproj.CoreCompileInputs.cache
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\obj\Debug\CrudOperations.exe
+C:\Users\Bhawana\source\repos\CrudOperations\CrudOperations\obj\Debug\CrudOperations.pdb
